@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\bin\Debug\netcoreapp3.1\MinHalfMethod2.exe
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\bin\Debug\netcoreapp3.1\MinHalfMethod2.deps.json
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\bin\Debug\netcoreapp3.1\MinHalfMethod2.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\bin\Debug\netcoreapp3.1\MinHalfMethod2.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\bin\Debug\netcoreapp3.1\MinHalfMethod2.dll
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\bin\Debug\netcoreapp3.1\MinHalfMethod2.pdb
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\obj\Debug\netcoreapp3.1\MinHalfMethod2.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\obj\Debug\netcoreapp3.1\MinHalfMethod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\obj\Debug\netcoreapp3.1\MinHalfMethod2.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\obj\Debug\netcoreapp3.1\MinHalfMethod2.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\obj\Debug\netcoreapp3.1\MinHalfMethod2.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\obj\Debug\netcoreapp3.1\MinHalfMethod2.dll
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\obj\Debug\netcoreapp3.1\MinHalfMethod2.pdb
+C:\Users\asus\OneDrive\Desktop\Full\MinHalfMethod2\MinHalfMethod2\obj\Debug\netcoreapp3.1\MinHalfMethod2.genruntimeconfig.cache
